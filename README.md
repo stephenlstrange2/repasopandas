@@ -1,3 +1,3 @@
 # repasopandas
 repaso pandas
-en este repo se repasar pandas
+Este repositorio es un repaso de las funcionalidades principales de pandas
